@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Corto2_problema1.dir/main.c.o  -o Corto2_problema1 -lm 
